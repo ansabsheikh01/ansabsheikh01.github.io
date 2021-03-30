@@ -1,0 +1,47 @@
+* {
+    font-family: serif;
+}
+
+.col4 {
+    height: 550px;
+    border: 1px solid black;
+    background-color: rgb(44, 43, 43);
+    color: white;
+}
+
+.col4 img {
+    height: 550px;
+    width: 100%;
+}
+
+.col1 {
+    height: 550px;
+    border: 1px solid black;
+    background-color: rgb(44, 43, 43);
+    color: white;
+}
+
+.col1 h5 {
+    color: turquoise;
+}
+
+.col1 p {
+    opacity: 0.5;
+    color: white;
+}
+
+.col2 {
+    height: 50px;
+    border: 1px solid rgb(197, 197, 197);
+    background-color: rgb(197, 197, 197);
+}
+
+.head {
+    height: 40px;
+    width: 746px;
+    background-color: black;
+}
+
+.col3 i {
+    color: turquoise;
+}
