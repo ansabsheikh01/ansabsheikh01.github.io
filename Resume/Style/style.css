@@ -10,6 +10,7 @@
 }
 
 .col4 img {
+    box-shadow: 10px 10px 20px black;
     height: 550px;
     width: 100%;
     position: relative;
@@ -18,18 +19,63 @@
 
 .col4 h3 {
     padding-left: 70px;
-    padding-top: 470px;
+    padding-top: 450px;
     position: absolute;
     z-index: 1;
-    text-shadow: 1px 1px 5px black;
+    text-shadow: 5px 5px 15px black;
 }
 
-.col4 p {
-    padding-left: 140px;
-    padding-top: 515px;
+.col4 h5 {
+    padding-left: 130px;
+    padding-top: 490px;
     position: absolute;
     z-index: 2;
     color: turquoise;
+}
+
+.icon1 i {
+    padding-left: 110px;
+    padding-top: 525px;
+    position: absolute;
+    z-index: 3;
+    text-shadow: 1px 1px 5px black;
+    color: white;
+}
+
+.icon2 i {
+    padding-left: 135px;
+    padding-top: 525px;
+    position: absolute;
+    z-index: 4;
+    text-shadow: 1px 1px 5px black;
+    color: white;
+}
+
+.icon3 i {
+    padding-left: 160px;
+    padding-top: 525px;
+    position: absolute;
+    z-index: 5;
+    text-shadow: 1px 1px 5px black;
+    color: white;
+}
+
+.icon4 i {
+    padding-left: 185px;
+    padding-top: 525px;
+    position: absolute;
+    z-index: 6;
+    text-shadow: 1px 1px 5px black;
+    color: white;
+}
+
+.icon5 i {
+    padding-left: 210px;
+    padding-top: 525px;
+    position: absolute;
+    z-index: 7;
+    text-shadow: 1px 1px 5px black;
+    color: white;
 }
 
 .col1 {
