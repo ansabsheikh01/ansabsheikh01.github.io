@@ -1,0 +1,130 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+}
+
+hr {
+    color: rgb(5, 5, 173);
+    ;
+}
+
+.page {
+    background: rgb(167, 167, 167);
+    margin: 0 30px;
+}
+
+.col1 {
+    margin: 5% 0;
+    height: 1100px;
+    float: left;
+    background-color: white;
+    box-shadow: 15px 15px 10px rgb(78, 78, 250);
+}
+
+
+/* .main {
+    border: 1px solid black;
+    margin: 5% 0;
+    height: 1200px;
+    float: left;
+    background-color: white;
+    box-shadow: 15px 15px 10px rgb(70, 67, 67);
+} */
+
+.blue {
+    background-color: rgb(5, 5, 173);
+    height: 50px;
+}
+
+.blue2 {
+    margin: 78px 0;
+    background-color: rgb(5, 5, 173);
+    height: 50px;
+}
+
+.name h1 {
+    font-family: cursive;
+    color: rgb(5, 5, 173);
+    margin-top: 15px;
+    text-align: center;
+}
+
+.pic {
+    margin: 5% 23%;
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.pic img {
+    height: 200px;
+    width: 200px;
+    box-shadow: 15px 15px 10px rgb(78, 78, 250);
+    border-radius: 50%;
+}
+
+.contact {
+    margin-left: 10%;
+}
+
+.contact h2 {
+    margin-top: 25%;
+    color: rgb(5, 5, 173);
+}
+
+.language {
+    margin-left: 10%;
+}
+
+.language h2 {
+    margin-top: 25%;
+    color: rgb(5, 5, 173);
+}
+
+.summary {
+    margin-left: 10%;
+}
+
+.summary h2 {
+    display: inline-block;
+    margin-top: 10%;
+    color: rgb(5, 5, 173);
+}
+
+.skill {
+    margin-left: 10%;
+}
+
+.skill h2 {
+    margin-top: 5%;
+    color: rgb(5, 5, 173);
+}
+
+.experience {
+    margin-left: 10%;
+}
+
+.experience h2 {
+    margin-top: 5%;
+    color: rgb(5, 5, 173);
+}
+
+.edu {
+    margin-left: 10%;
+}
+
+.edu h2 {
+    margin-top: 5%;
+    color: rgb(5, 5, 173);
+}
+
+.certificate {
+    margin-left: 10%;
+}
+
+.certificate h2 {
+    margin-top: 5%;
+    color: rgb(5, 5, 173);
+}
