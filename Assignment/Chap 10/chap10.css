@@ -1,0 +1,43 @@
+* {
+    font-family: serif;
+}
+
+h1,
+h2 {
+    color: blue;
+}
+
+h2 {
+    background-color: rgb(185, 180, 180);
+}
+
+.blue1 {
+    color: blue;
+}
+
+p i {
+    color: red;
+}
+
+.form1 {
+    width: 500px;
+    border: 1px solid black;
+}
+
+.heading {
+    color: white;
+    background-color: greenyellow;
+}
+
+.bg {
+    background-color: rgb(202, 202, 202);
+}
+
+button {
+    background-color: greenyellow;
+}
+
+.btn {
+    background-color: greenyellow;
+    border: 1px solid black;
+}
